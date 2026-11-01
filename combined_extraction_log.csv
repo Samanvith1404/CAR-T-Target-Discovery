@@ -1,0 +1,9 @@
+NCTId,PatentID,Stage,Outcome,TargetFromLLM,HingeMatched,TMMatched,CostimMatched,CD3zMatched,NCBISequenceFound,NCBINote
+NCT02547948,JP7208010B2,COMBINED,OK,,False,False,False,True,False,no NCBI patent-division record found for this patent number
+NCT04690192,US12441779B2,COMBINED,OK,CD19,False,False,False,False,False,no NCBI patent-division record found for this patent number
+NCT01029366,ES2908324T3,COMBINED,OK,,False,False,False,True,False,no NCBI patent-division record found for this patent number
+NCT05298995,JP7672982B2,COMBINED,OK,,False,False,False,True,False,no NCBI patent-division record found for this patent number
+NCT06373081,ES3035857T3,COMBINED,OK,,False,False,False,True,False,no NCBI patent-division record found for this patent number
+NCT02315612,AU2019301675B2,COMBINED,OK,,False,False,False,True,False,no NCBI patent-division record found for this patent number
+NCT07198867,AU2023203306B2,COMBINED,OK,,False,False,False,True,False,no NCBI patent-division record found for this patent number
+NCT03068416,JP7208010B2,COMBINED,OK,,False,False,False,True,False,no NCBI patent-division record found for this patent number
